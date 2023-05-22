@@ -9,12 +9,10 @@ import random
 import time
 
 BASE_URL = 'https://dashboard.hammerhead.io/v1'
-# Testing Account
-#CONFIG_FILE_PATH = "ksync.json"
 
 # Produktion
 
-CONFIG_FILE_PATH = "ksync-prod.json"
+CONFIG_FILE_PATH = "ksync-example.json"
 
 def random_wait():
     wait_time = random.uniform(1, 4)

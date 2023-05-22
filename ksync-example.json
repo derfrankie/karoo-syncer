@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "username": "example@example.com",
+            "password": "123456789"
+        }
+    ],
+    "directory": "/routes",
+    "scan_subfolders": true,
+    "clear_collections": true,
+    "overwrite_tour": true,
+    "clean_filenames": false
+}
