@@ -12,7 +12,7 @@ BASE_URL = 'https://dashboard.hammerhead.io/v1'
 
 # Produktion
 
-CONFIG_FILE_PATH = "ksync-example.json"
+CONFIG_FILE_PATH = "ksync-prod.json"
 
 def random_wait():
     wait_time = random.uniform(1, 4)
