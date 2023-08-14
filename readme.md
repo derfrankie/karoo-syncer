@@ -1,8 +1,4 @@
-Absolutely, I understand. Based on your description, here's an updated version of the README:
-
----
-
-# ksync Route Sync Python Script
+# ksync Route Sync for Hammerhead Karoo by GravelDeluxe
 
 The `ksync` Python Route Sync Script is a versatile tool designed to synchronize route files from folders on your computer to the Hammerhead Dashboard. This script replicates folders as collections on the Dashboard, with various configuration options to customize the synchronization process according to your needs.
 
